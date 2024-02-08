@@ -1,6 +1,6 @@
 ### Greetings! ✋🏻 I'm Hok. (aka Leo)
 
-- 🌻 Former Senior Software Engineer in Bangkok, Thailand
+- 🌻 Software Engineer in Bangkok, Thailand
 - 👨🏻‍🎓 I’m currently enrolled in the International Business Management program at Cornerstone International Community College of Canada
 - 🍀 My hobby: Series, Food, Travel
 - 📪 How to reach me: [LinkedIn](https://www.linkedin.com/in/boonyarit-rou/)
