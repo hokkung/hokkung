@@ -1,7 +1,7 @@
 ### Greetings! ✋🏻 I'm Hok. (aka Leo)
 
-- 🌻 Software Engineer in Bangkok, Thailand
-- 👨🏻‍🎓 I’m currently enrolled in the International Business Management program at Cornerstone International Community College of Canada
+- 🌻 Someone who loves coding
+- 📍Bangkok, Thailand - Vancouver, BC, CA
 - 🍀 My hobby: Series, Food, Travel
 - 📪 Reach me out!: [LinkedIn](https://www.linkedin.com/in/boonyarit-rou/)
 - 📖 [Medium](https://medium.com/@hokkung) or [Personal Blog](https://hokkung.netlify.app/).~
