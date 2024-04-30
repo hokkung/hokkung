@@ -1,9 +1,9 @@
-### Greetings! ✋🏻 I'm Hok. (aka Leo)
+### Hi there! ✋🏻 You can call me Leo/Hok (both are fine for me tho).
 
 - 🌻 Someone who loves coding
-- 📍Bangkok, Thailand - Vancouver, BC, CA
-- 🍀 My hobby: Series, Food, Travel
-- 📪 Reach me out!: [LinkedIn](https://www.linkedin.com/in/boonyarit-rou/)
+- 📍 Bangkok, Thailand - Vancouver, BC, CA
+- 🍀 Hobby: Series, Food, Travel
+- 📪 Reach me out: [LinkedIn](https://www.linkedin.com/in/boonyarit-rou/)!
 - 📖 [Medium](https://medium.com/@hokkung) or [Personal Blog](https://hokkung.netlify.app/).~
 
 <!--
