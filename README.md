@@ -1,6 +1,6 @@
-### Hi there! ✋🏻 You can call me Leo/Hok (both are fine for me tho).
+### Hi there! ✋🏻 You can call me Leo/Hok.
 
-- 🌻 Someone who loves coding
+- 🌻 Someone who loves coding (I mean sometime tho)
 - 📍 Bangkok, Thailand - Vancouver, BC, CA
 - 🍀 Hobby: Series, Food, Travel
 - 📪 Reach me out: [LinkedIn](https://www.linkedin.com/in/boonyarit-rou/)!
