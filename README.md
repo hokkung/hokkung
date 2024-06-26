@@ -1,9 +1,9 @@
 ### Hi there! ✋🏻 You can call me Leo/Hok.
 
-- 🌻 Someone who loves coding (I mean sometime tho)
-- 📍 Bangkok, Thailand - Vancouver, BC, CA
+- 🌻 Someone who sometimes loves coding
+- 📍 Bangkok, Thailand
 - 🍀 Hobby: Series, Food, Travel
-- 📪 Reach me out: [LinkedIn](https://www.linkedin.com/in/boonyarit-rou/)!
+- 📪 Reaching out: [LinkedIn](https://www.linkedin.com/in/boonyarit-rou/)!
 - 📖 [Medium](https://medium.com/@hokkung) or [Personal Blog](https://hokkung.netlify.app/).~
 
 <!--
