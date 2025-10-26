@@ -1,8 +1,6 @@
-### Hi there! ✋🏻 You can call me Leo/Hok.
+### Hi there! ✋🏻 I'm Leo.
 
-- 🌻 Someone who sometimes loves coding
 - 📍 Bangkok, Thailand
-- 🍀 Hobby: Series, Food, Travel
 - 📪 Reaching out: [LinkedIn](https://www.linkedin.com/in/boonyarit-rou/)!
 - 📖 [Medium](https://medium.com/@hokkung) or [Personal Blog](https://hokkung.netlify.app/).~
 
